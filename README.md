@@ -7,7 +7,7 @@ This program lets you add, view, edit, complete, and delete tasks, with due date
 ### ✨ Features
 
 - 📂 Save tasks in a JSON file (so they don’t get lost when you exit).
-- - ✅ Mark tasks as completed.
+- ✅ Mark tasks as completed.
 -✏️ Edit existing tasks (description, due date, priority).
 - 🗑 Delete tasks you no longer need.
 - 🔔 Reminders for tasks due soon (within 3 days).
